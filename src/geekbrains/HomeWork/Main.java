@@ -34,6 +34,7 @@ public class Main {
                 .distinct()
                 .collect(Collectors.toList());
         System.out.println(unicCourses);
-        
+
+
     }
 }

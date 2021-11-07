@@ -21,5 +21,4 @@ public class Student {
         return name + " записан(а) на курсы:" + getCourses() + "     ";
     }
 
-
 }
